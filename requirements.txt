@@ -1,0 +1,7 @@
+sklearn_crfsuite
+sklearn
+numpy
+pandas
+tqdm
+eli5
+
